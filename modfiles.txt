@@ -1,0 +1,5 @@
+campaign/town/provision/provision.background.png 983276
+casualprovisions.xml 1903
+preview_icon.png 258218
+preview_icon.psd 1511232
+project.xml 1912

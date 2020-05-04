@@ -6,6 +6,8 @@ A Darkest Dungeon Mod
 
 Shows provisions suggestions on the right side of the expedition preparation screen based on a bunch of different guides/wikis and other mods.
 
+![Preview](https://steamuserimages-a.akamaihd.net/ugc/1022824544171218369/8665CCFDE72D6206BAF3C76425A9B75AE2DCE963/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000)
+
 Mainly for people like me who come back to the game every few months and can't remember how many of the provision items they should take with them.
 
 Please - treat these values as a guide/suggestion, feel free to adjust the amount to your liking if you feel you're taking too much or too little with you.
